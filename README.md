@@ -1,0 +1,2 @@
+# think_python_practice_code
+像计算机科学家一样思考python的练习题及答案
