@@ -1,4 +1,5 @@
 # think_python_practice_code
-像计算机科学家一样思考python的练习题及答案
+<<像计算机科学家一样思考python>>
 
-记录自己的练习过程, 这本书不错, 推荐大家。
+在jupyter notebook记录练习题的解答
+这本书不错, 推荐大家, 来扩展自己的编程思维。
